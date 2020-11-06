@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+chromedriver.exe
+*.log
+chromedriver
+**/__pycache__
+**.ipynb
+build
+dist
+**.json
+activate_key
+pchome小幫手安裝檔.exe
+installer_script.iss
